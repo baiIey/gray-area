@@ -1,11 +1,20 @@
 # Gray Area
-Sandbox repo for Gray Area exercises.
+Sandbox for Gray Area exercises.
 
 ### p5-spliced-mouseDown
 ![p5-slider-buttons GIF](_screenshots/p5-mousedown-ellipse.gif)
 
 ### p5-slider-buttons
 ![p5-slider-buttons GIF](_screenshots/p5-slider-buttons.gif)
+
+### p5-video-clmtracker
+![p5-video-clmtracker GIF](_screenshots/p5-video-clm.gif)
+
+### p5-video-static
+![p5-video-static GIF](_screenshots/p5-video-static.gif)
+
+### p5-video-grayscale
+![p5-video-grayscale GIF](_screenshots/p5-video-grayscale.gif)
 
 Certain p5.js methods and properties exist outside p5.js core and require including the [p5.dom library](https://p5js.org/reference/#/libraries/p5.dom).
 

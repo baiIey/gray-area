@@ -6,6 +6,7 @@ function draw() {
 
 }
 
-function windowResized() { // called once every time the browser window is resized
+// called once every time the browser window is resized
+function windowResized() { 
   resizeCanvas(windowWidth, windowHeight);
 }
